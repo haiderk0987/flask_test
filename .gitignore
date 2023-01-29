@@ -1,0 +1,4 @@
+.venv_flask_tutorial/
+__pycache__/
+.vscode/
+*.egg-info/
